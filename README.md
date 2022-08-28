@@ -1,5 +1,6 @@
 # **Capstone Project-1 Airbnb Bookings Analysis**
-Exploratory data analysis done on Airbnb Dataset
+
+Exploratory data analysis done on Airbnb NYC (2019) dataset
 
 ## 📝 **Problem Statement**
 
@@ -13,11 +14,11 @@ This dataset has around 49,000 observations in it with 16 columns and it is a mi
 3. Which hosts are the busiest and why?
 4. Is there any noticeable difference of traffic among different areas and what could be the reason for it?
 
-## ⏳ **Dataset
+## ⏳ **Dataset**
 
 Download the dataset for this project from this link -https://drive.google.com/file/d/1ioU5r9KEYSfwgfUi22SclVkx4l1a_8ou/view?usp=sharing
 
-## **Approach used:**
+##     **Approach used:**
 
 The approach we have used in this project is defined in the given format-
 
@@ -29,30 +30,30 @@ The approach we have used in this project is defined in the given format-
 
 4) Future scope of Further Analysis: There are many apartments having availability as 0 , which means they could stopped their business, we can find the relation with neighbourhood with these apartments if we could dig much, various micro trends could be unearthed, which we are not able to cover during this short duration efficiently. There are various columns which can play an important role in further analysis such as number of reviews and reviews per month finding its relation with other factors or other grouped factors can play an important role.
 
-## **Types of graphs used for data visualization:**
+##     **Types of graphs used for data visualization:**
 
-Count Plot
+1. Count Plot
 
-Bar Plot
+2. Bar Plot
 
-Scatter Plot
+3. Scatter Plot
 
-Heatmap
+4. Heatmap
 
-Box plot
+5. Box plot
 
-Python Libraries used for graphs:
+6. Python Libraries used for graphs:
 
-Matplotib
+7. Matplotib
 
-Seaborn
+8. Seaborn
 
-klib
+9. klib
 
-Numpy
+10. Numpy
 
-Pandas
+11. Pandas
 
-Folium
+12. Folium
 
-## Refer Colab Notebook and Technical documentation for detailed analysis and conclusions.
+### Refer Colab Notebook and Technical documentation for detailed analysis and conclusions.
